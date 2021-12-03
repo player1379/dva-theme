@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "dva-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Dva theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
+>
+> ![image-20211203163409113](/Users/jarvis/Library/Application Support/typora-user-images/image-20211203163409113.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Install
+复制文件夹到指定路径 /user/.vscode/extensions
+在vscode中修改主题——dva theme
 
-**Enjoy!**
+感谢各种建议～
