@@ -1,0 +1,21 @@
+{
+    "name": "dva-theme",
+    "displayName": "dva-theme",
+    "description": "a dark theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dva theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dva theme-color-theme.json"
+            }
+        ]
+    }
+}
